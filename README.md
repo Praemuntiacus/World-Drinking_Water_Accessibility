@@ -1,6 +1,6 @@
 # World_Drinking_Water_Accessibility
 The prohgect of analysis of World drinking water accessibility with Tableau
-## Project 3: Analysis of Accessibility to Drinking Water in the World (Tableau)
+## Analysis of Accessibility to Drinking Water in the World (Tableau)
 
 DESCRIPTION: A Tableau visualization project showcasing an in-depth analysis of global drinking water resources. The analysis spans across the global, regional, and national levels, encompassing factors such as geopolitical stability, water resource availability, epidemiological and demographic situations, water stress index, and infrastructure development. The project incorporates a chronological filter that enables tracking the evolution and dynamics of demographics and geopolitical stability worldwide over the past 20 years. Additionally, at the regional level, the filters allow for assessing water stress characteristics specific to each part of the world. At the national level, the filters provide insights into the demographic situation, access to water resources, and the effectiveness of water policies for individual countries. It further facilitates monitoring the evolution of selected parameters over the last two decades.
 
